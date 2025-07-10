@@ -1,1 +1,1 @@
-# 5_ATM_Interface_Simulation_GQT
+# 5_ATM_Interface_Simulation_GQT_Corejava
